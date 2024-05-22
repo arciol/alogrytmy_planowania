@@ -1,0 +1,23 @@
+FCFS
+PID: 1     Arrival time: 0     Execution time: 20                    Waiting time: 0.00   Turnaround time: 20.00 
+PID: 2     Arrival time: 3     Execution time: 15                    Waiting time: 17.00  Turnaround time: 32.00 
+PID: 3     Arrival time: 4     Execution time: 10                    Waiting time: 31.00  Turnaround time: 41.00 
+PID: 4     Arrival time: 6     Execution time: 5                     Waiting time: 39.00  Turnaround time: 44.00 
+Average waiting time: 21.75
+Average turnaround time: 34.25
+
+SJF
+PID: 1     Arrival time: 0     Execution time: 20                    Waiting time: 0.00   Turnaround time: 20.00 
+PID: 4     Arrival time: 6     Execution time: 5                     Waiting time: 14.00  Turnaround time: 19.00 
+PID: 3     Arrival time: 4     Execution time: 10                    Waiting time: 21.00  Turnaround time: 31.00 
+PID: 2     Arrival time: 3     Execution time: 15                    Waiting time: 32.00  Turnaround time: 47.00 
+Average waiting time: 16.75
+Average turnaround time: 29.25
+
+SJF_AGING
+PID: 1     Arrival time: 0     Execution time: 20                    Waiting time: 0.00   Turnaround time: 20.00 
+PID: 4     Arrival time: 6     Execution time: 5                     Waiting time: 14.00  Turnaround time: 19.00 
+PID: 3     Arrival time: 4     Execution time: 10                    Waiting time: 21.00  Turnaround time: 31.00 
+PID: 2     Arrival time: 3     Execution time: 15                    Waiting time: 32.00  Turnaround time: 47.00 
+Average waiting time: 16.75
+Average turnaround time: 29.25
